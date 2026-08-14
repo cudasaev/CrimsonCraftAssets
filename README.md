@@ -1,1 +1,2 @@
-# siimp_investigation
+## Siimp Расследование
+В данной папке записи скинов с SiimpAlone на многие месяцы
